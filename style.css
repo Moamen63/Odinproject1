@@ -193,3 +193,18 @@ img {
     font-weight: bold;
    
   }
+
+  .info{
+    display: flex;
+    flex-direction: column; 
+    border-style:solid;
+    border-radius: 10px;
+    border-color: #246d2e;
+    align-items: center;
+    justify-content: center;
+  }
+  .text{
+    align-items: center;
+    justify-content: center;
+    margin-left: 1em;
+  }
